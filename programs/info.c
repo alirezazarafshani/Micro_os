@@ -1,0 +1,3 @@
+void info(/* arguments */) {
+  /* code */
+}
