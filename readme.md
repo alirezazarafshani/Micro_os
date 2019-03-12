@@ -1,0 +1,1 @@
+compile and run the "os.info" on os folder for your microprocessor.
