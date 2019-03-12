@@ -1,1 +1,1 @@
-compile and run the "os.info" on os folder for your microprocessor.
+compile and run the "os.ino" on os folder for your microprocessor.
